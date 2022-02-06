@@ -21,6 +21,9 @@ Java / C++
 ## IOS : 
 XCode ( Swift / React )
 
+## Site web : 
+HTML / CSS / JS
+
 # Fonctionnalités : 
 
 - Possibilité de créer des catégories ( personnalisable )
